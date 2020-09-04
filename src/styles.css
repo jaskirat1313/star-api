@@ -1,0 +1,10 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.card-body {
+  background-color: #000066;
+  color: #fff;
+  border-radius: 2%;
+  box-shadow: 3px 5px 15px -5px rgba(71, 69, 69, 0.993);
+}
